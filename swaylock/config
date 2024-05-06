@@ -1,0 +1,38 @@
+screenshots
+effect-blur=8x4
+#effect-blur=3x2
+effect-vignette=0.75:0.75
+show-failed-attempts
+clock
+color=1f1d2e80
+font="verdana"
+indicator
+#indicator-radius=200
+indicator-radius=120
+# indicator-thickness=20
+line-color=1E295299
+# original color scheme
+# ring-color=191724
+
+ring-color=1E295299
+#inside-color=1f1d2e
+key-hl-color=191724 
+separator-color=00000000
+text-color=e0def4
+text-caps-lock-color=""
+line-ver-color=eb6f92
+ring-ver-color=eb6f92
+inside-ver-color=1f1d2e
+text-ver-color=e0def4
+ring-wrong-color=31748f
+text-wrong-color=31748f
+inside-wrong-color=1f1d2e
+inside-clear-color=1f1d2e
+text-clear-color=e0def4
+ring-clear-color=9ccfd8
+line-clear-color=1f1d2e
+line-wrong-color=1f1d2e
+bs-hl-color=31748f
+datestr=%a, %B %e
+timestr=%I:%M %p
+deamonize
