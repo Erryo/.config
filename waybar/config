@@ -2,10 +2,10 @@
 {
     "layer": "top",
     "position": "top",
-    "margin": 5,
+   // "margin": 1,
 
     // If height property would be not present, it'd be calculated dynamically
-    //"height": 10,
+    "height": 10,
     
 
     "modules-left": [
@@ -13,6 +13,7 @@
         "hyprland/workspaces",
         "custom/media",
         "hyprland/window",
+        "hyprland/language"
     ],
  
     "modules-center": [
@@ -21,21 +22,26 @@
 
     "modules-right": [
         "tray",
-        // "idle_inhibitor",
         "memory",
         "cpu",
-        // "custom/keyboard-layout",
-        //"custom/PBPbattery",
-        // "backlight#icon",
-         "backlight#value",
+        "backlight#value",
         "pulseaudio",
-    "pulseaudio#microphone",
+        "pulseaudio#microphone",
         "network",
         "battery",
     ],
 
     // Modules
 
+  "hyprland/language": {
+    "format": "{}",                                                     
+    "format-en": "Us",                                                      
+    "format-de": "De",                                                      
+    "format-ro": "Ro",                                                      
+    "keyboard-name": "at-translated-set-2-keyboard",                        
+    "on-click": "hyprctl switchxkblayout at-translated-set-2-keyboard next" 
+
+    },
     "idle_inhibitor": {
         "format": "{icon} ",
         "format-icons":{
