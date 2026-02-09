@@ -1,0 +1,12 @@
+2026/02/06-10:57:57.708 fc349 Reusing MANIFEST /home/infy/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/06-10:57:57.709 fc349 Recovering log #51
+2026/02/06-10:57:57.745 fc349 Reusing old log /home/infy/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000051.log 
+2026/02/06-10:57:59.864 fc349 Level-0 table #56: started
+2026/02/06-10:57:59.904 fc349 Level-0 table #56: 884389 bytes OK
+2026/02/06-10:57:59.907 fc349 Delete type=0 #51
+2026/02/06-10:57:59.919 fc349 Compacting 1@1 + 1@2 files
+2026/02/06-10:57:59.973 fc349 Generated table #57@1: 14354 keys, 874708 bytes
+2026/02/06-10:57:59.973 fc349 Compacted 1@1 + 1@2 files => 874708 bytes
+2026/02/06-10:57:59.975 fc349 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/02/06-10:57:59.975 fc349 Delete type=2 #53
+2026/02/06-10:57:59.975 fc349 Delete type=2 #56

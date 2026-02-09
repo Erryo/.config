@@ -1,0 +1,4 @@
+[ELAN0001:00 04F3:3140 Touchpad]
+disableEventsOnExternalMouse=false
+disableWhileTyping=false
+tapToClick=true
